@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 58.593%;" class="progress-item"></span><span style="background-color: #000080;width: 24.735%;" class="progress-item"></span><span style="background-color: #00A2FF;width: 8.377%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 6.692%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.013%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.539%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.047%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.002%;" class="progress-item"></span><span style="background-color: #663399;width: 0.001%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 58.594%;" class="progress-item"></span><span style="background-color: #000080;width: 24.722%;" class="progress-item"></span><span style="background-color: #00A2FF;width: 8.394%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 6.689%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 1.012%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.539%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.047%;" class="progress-item"></span><span style="background-color: #C1F12E;width: 0.002%;" class="progress-item"></span><span style="background-color: #663399;width: 0.001%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Lua</span>
-<span class="percent">24.74%</span>
+<span class="percent">24.72%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Luau</span>
-<span class="percent">8.38%</span>
+<span class="percent">8.39%</span>
 </li>
 
 
